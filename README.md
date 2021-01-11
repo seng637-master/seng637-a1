@@ -1,4 +1,2 @@
-# seng637-test-assignment-1
-**this is the first assignment**
+Assignment 1: Introduction to Testing and Defect Tracking
 
-_HELLO_
