@@ -1,2 +1,3 @@
-Assignment 1: Introduction to Testing and Defect Tracking
+# seng637-a1
 
+Read [the assignment guideline](seng637-a1.md) 
